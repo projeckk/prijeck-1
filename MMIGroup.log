@@ -1,0 +1,134 @@
+2020-00-27 03:00:21:058: d: MMIGroup MMIGroupNative: Load libmmigroup 
+2020-00-27 03:00:21:133: i: MMIGroup MMIHelper: xmlfile:MMIGroupNormal.xml
+2020-00-27 03:00:21:133: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:139: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupNormal.xml
+2020-00-27 03:00:21:140: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupNormal.xml
+2020-00-27 03:00:21:141: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupNormal.xml
+2020-00-27 03:00:21:141: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupNormal.xml
+2020-00-27 03:00:21:145: i: MMIGroup MMIHelper: initMenuTag fileName = common/MMIGroupNormal.xml
+2020-00-27 03:00:21:145: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupNormal.xml
+2020-00-27 03:00:21:153: i: MMIGroup MMIHelper: xmlfile:MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:154: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:155: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:156: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:157: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:157: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:159: i: MMIGroup MMIHelper: xmlfile:MMIGroupSensorAta.xml
+2020-00-27 03:00:21:159: i: MMIGroup MMIHelper: xmlfile:MMIGroupSensorManal.xml
+2020-00-27 03:00:21:159: i: MMIGroup MMIHelper: xmlfile:MMIGroupCameraAta.xml
+2020-00-27 03:00:21:160: i: MMIGroup MMIHelper: xmlfile:MMIGroupCameraManual.xml
+2020-00-27 03:00:21:160: i: MMIGroup MMIHelper: xmlfile:MMIGroupAudioAta.xml
+2020-00-27 03:00:21:161: i: MMIGroup MMIHelper: xmlfile:MMIGroupAudioManual.xml
+2020-00-27 03:00:21:162: i: MMIGroup MMIHelper: xmlfile:MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:162: i: MMIGroup MMIHelper: xmlfile:MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:162: i: MMIGroup MMIHelper: xmlfile:MMIGroupMmiManual.xml
+2020-00-27 03:00:21:163: i: MMIGroup MMIHelper: xmlfile:MMIGroupMmiAta.xml
+2020-00-27 03:00:21:164: i: MMIGroup MMIHelper: initMenuTag fileName = common/MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:165: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupMmiAtaManual.xml
+2020-00-27 03:00:21:167: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:168: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = CommonParam.xml
+2020-00-27 03:00:21:169: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/CommonParam.xml
+2020-00-27 03:00:21:169: d: MMIGroup MMIHelper: common/CommonParam.xml FileNotFound happened
+2020-00-27 03:00:21:170: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/CommonParam.xml
+2020-00-27 03:00:21:171: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:171: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:171: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:172: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:173: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:173: e: MMIGroup MMIHelper: MMIERR END_DOCUMENT
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: name  = CommonConfig
+2020-00-27 03:00:21:179: d: MMIGroup MMIHelper: start to TestItem
+2020-00-27 03:00:21:181: e: MMIGroup MMIHelper: MMIERR END_DOCUMENT
+2020-00-27 03:00:21:201: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:202: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupSensorAta.xml
+2020-00-27 03:00:21:204: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupSensorAta.xml
+2020-00-27 03:00:21:204: d: MMIGroup MMIHelper: common/MMIGroupSensorAta.xml FileNotFound happened
+2020-00-27 03:00:21:205: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupSensorAta.xml
+2020-00-27 03:00:21:205: d: MMIGroup MMIHelper: S88505CA1/MMIGroupSensorAta.xml FileNotFound happened
+2020-00-27 03:00:21:205: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupSensorAta.xml
+2020-00-27 03:00:21:207: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:208: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupSensorManal.xml
+2020-00-27 03:00:21:209: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupSensorManal.xml
+2020-00-27 03:00:21:210: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupSensorManal.xml
+2020-00-27 03:00:21:211: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupSensorManal.xml
+2020-00-27 03:00:21:212: i: MMIGroup MMIHelper: initMenuTag fileName = common/MMIGroupSensorManal.xml
+2020-00-27 03:00:21:213: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupSensorManal.xml
+2020-00-27 03:00:21:224: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:225: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupCameraAta.xml
+2020-00-27 03:00:21:226: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupCameraAta.xml
+2020-00-27 03:00:21:227: d: MMIGroup MMIHelper: common/MMIGroupCameraAta.xml FileNotFound happened
+2020-00-27 03:00:21:228: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupCameraAta.xml
+2020-00-27 03:00:21:228: d: MMIGroup MMIHelper: S88505CA1/MMIGroupCameraAta.xml FileNotFound happened
+2020-00-27 03:00:21:228: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupCameraAta.xml
+2020-00-27 03:00:21:232: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:233: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupCameraManual.xml
+2020-00-27 03:00:21:234: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupCameraManual.xml
+2020-00-27 03:00:21:234: d: MMIGroup MMIHelper: common/MMIGroupCameraManual.xml FileNotFound happened
+2020-00-27 03:00:21:235: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupCameraManual.xml
+2020-00-27 03:00:21:236: d: MMIGroup MMIHelper: S88505CA1/MMIGroupCameraManual.xml FileNotFound happened
+2020-00-27 03:00:21:236: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupCameraManual.xml
+2020-00-27 03:00:21:237: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:238: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupAudioAta.xml
+2020-00-27 03:00:21:239: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupAudioAta.xml
+2020-00-27 03:00:21:239: d: MMIGroup MMIHelper: common/MMIGroupAudioAta.xml FileNotFound happened
+2020-00-27 03:00:21:243: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupAudioAta.xml
+2020-00-27 03:00:21:243: d: MMIGroup MMIHelper: S88505CA1/MMIGroupAudioAta.xml FileNotFound happened
+2020-00-27 03:00:21:244: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupAudioAta.xml
+2020-00-27 03:00:21:245: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:246: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupAudioManual.xml
+2020-00-27 03:00:21:247: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupAudioManual.xml
+2020-00-27 03:00:21:247: d: MMIGroup MMIHelper: common/MMIGroupAudioManual.xml FileNotFound happened
+2020-00-27 03:00:21:248: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupAudioManual.xml
+2020-00-27 03:00:21:249: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupAudioManual.xml
+2020-00-27 03:00:21:250: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupAudioManual.xml
+2020-00-27 03:00:21:251: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:252: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:254: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:254: d: MMIGroup MMIHelper: common/MMIGroupPcbaAta.xml FileNotFound happened
+2020-00-27 03:00:21:255: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:255: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:257: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupPcbaAta.xml
+2020-00-27 03:00:21:258: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:259: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:260: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:261: d: MMIGroup MMIHelper: common/MMIGroupPcbaMaual.xml FileNotFound happened
+2020-00-27 03:00:21:262: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:262: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:265: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupPcbaMaual.xml
+2020-00-27 03:00:21:265: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:267: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupMmiManual.xml
+2020-00-27 03:00:21:268: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupMmiManual.xml
+2020-00-27 03:00:21:268: d: MMIGroup MMIHelper: common/MMIGroupMmiManual.xml FileNotFound happened
+2020-00-27 03:00:21:269: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupMmiManual.xml
+2020-00-27 03:00:21:269: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupMmiManual.xml
+2020-00-27 03:00:21:271: i: MMIGroup MMIHelper: initMenuTag fileName = S88505CA1/MMIGroupMmiManual.xml
+2020-00-27 03:00:21:272: d: MMIGroup MMIHelper:  mSubProjectName = S88505CA1
+2020-00-27 03:00:21:273: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = MMIGroupMmiAta.xml
+2020-00-27 03:00:21:274: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = common/MMIGroupMmiAta.xml
+2020-00-27 03:00:21:274: d: MMIGroup MMIHelper: common/MMIGroupMmiAta.xml FileNotFound happened
+2020-00-27 03:00:21:275: d: MMIGroup MMIHelper: isAssetsFileOrPathExit path = S88505CA1/MMIGroupMmiAta.xml
+2020-00-27 03:00:21:276: d: MMIGroup MMIHelper: S88505CA1/MMIGroupMmiAta.xml FileNotFound happened
+2020-00-27 03:00:21:276: i: MMIGroup MMIHelper: initMenuTag fileName = MMIGroupMmiAta.xml
